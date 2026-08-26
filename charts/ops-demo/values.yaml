@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/etiennefokou-e18560/kubernetes-operations-toolkit
+  repository: ghcr.io/efokou-labs/kubernetes-operations-toolkit
   tag: dev
 failureMode: none
 replicaCount: 1

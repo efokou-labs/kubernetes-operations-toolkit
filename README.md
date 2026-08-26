@@ -2,7 +2,7 @@
 
 Intentionally observable Kubernetes environment for **operational exercises**, not a conventional app.
 
-Install on the shared kind cluster from [cloud-platform-blueprint](https://github.com/EtienneFokou-E18560/cloud-platform-blueprint).
+Install on the shared kind cluster from [cloud-platform-blueprint](https://github.com/efokou-labs/cloud-platform-blueprint).
 
 ## Failure modes
 
