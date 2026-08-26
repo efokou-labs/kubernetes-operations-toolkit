@@ -33,3 +33,10 @@ Each file is alert → diagnosis → mitigation → recovery:
 ```bash
 make verify
 ```
+
+## License
+
+The source code for this project is licensed under the MIT License. Personal content, including my resume, photographs, written content, branding, and other identifying materials, is not covered by this license and may not be reused without permission.
+
+See [LICENSE](LICENSE).
+
